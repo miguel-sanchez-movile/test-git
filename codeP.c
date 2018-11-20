@@ -1,1 +1,1 @@
-Código prueba para GitHub
+/*Código prueba para GitHub*/
